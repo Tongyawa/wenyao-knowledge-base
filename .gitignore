@@ -1,0 +1,18 @@
+# 本地协作约定，不公开
+CLAUDE.md
+.claude/
+
+# 操作系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# 临时文件
+*.tmp
+*.bak
